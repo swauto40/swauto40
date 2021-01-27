@@ -34,6 +34,7 @@ sudo apt install firejail firejail-profiles firetools clamav clamav-docs imagema
 sudo apt install virtualbox virtualbox-ext-pack virtualbox-guest-additions-iso -y
 
 # Install snap apps
+# These apps are up-to-date than in the repos
 sudo snap install libreoffice
 sudo snap install gimp
 sudo snap install docker
@@ -46,12 +47,34 @@ sudo snap install cherrytree
 sudo snap install cawbird
 
 # Install flatpak apps
+# I only use flatpak for gaming apps
 sudo apt install flatpak
 flatpak install flathub com.valvesoftware.Steam -y
 flatpak install flathub org.libretro.RetroArch -y
 flatpak install flathub org.DolphinEmu.dolphin-emu -y
 flatpak install flathub org.ppsspp.PPSSPP -y
 flatpak install flathub io.mgba.mGBA -y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
