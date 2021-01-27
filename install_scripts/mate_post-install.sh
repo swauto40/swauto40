@@ -1,7 +1,8 @@
 #!/bin/bash  
 
-
-# wget https://raw.githubusercontent.com/_______/post-install.sh && bash post-install.sh
+# My personal Ubuntu MATE 20.04 post-install script.
+# WIP
+# wget https://raw.githubusercontent.com/swauto40/swauto40/main/install_scripts/mate_post-install.sh && bash post-install.sh
 
 # Enable firewall
 sudo ufw enable
