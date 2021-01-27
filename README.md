@@ -1,4 +1,6 @@
-### Hi there 👋
+### swauto40 👋
+
+Misc linux scripts.
 
 <!--
 **swauto40/swauto40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
