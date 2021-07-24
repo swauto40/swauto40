@@ -25,7 +25,7 @@ Prevent video metadata from phoning home
 Create backup file
 > `cp %n %n.old`
 
-Convert image for upload to social media
+Convert image for upload
 > `convert -strip -resize 1024x768 %N WEB_%N.jpg`
 
 Convert images to PDF
