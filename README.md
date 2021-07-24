@@ -1,8 +1,8 @@
 # Misc linux scripts
 * bash config
 * bash aliases
-* post-install script (Ubuntu MATE 20.04)
-* rsyn backup script
+* post-install script
+* rsync backup script
 * etc (wip)
 
 
