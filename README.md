@@ -1,8 +1,8 @@
 # Misc linux scripts
 * bash config
 * bash aliases
-* post-install script
-* rsync backup script
+* post-install
+* rsync backup
 * etc (wip)
 
 
