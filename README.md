@@ -43,7 +43,9 @@ Tesseract OCR
 Wipe video metadata
 > `ffmpeg -i %N -map_metadata -1 -c:v copy -c:a copy meta_%N`
 
-
+## youtube-dl
+1080p mkv
+> `youtube-dl --retries 50 --fragment-retries 50 --no-playlist --ignore-errors --socket-timeout 20 --format "bestvideo[height<=1080]+bestaudio"`  
 
 
 
