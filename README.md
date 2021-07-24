@@ -3,6 +3,8 @@
 * bash  
 * post-install  
 * rsync backup  
+* firejail  
+* thunar  
 * other  
 
 ## firejail
