@@ -37,10 +37,10 @@ Convert image to CBT
 Create tar.xz archive
 > `tar -cv -I 'xz -vve8T10' -f %n.tar.xz %N`
 
-tessaract ocr
+Tesseract OCR
 > `tesseract %n OCR`
 
-Wipte video metadata
+Wipe video metadata
 > `ffmpeg -i %N -map_metadata -1 -c:v copy -c:a copy meta_%N`
 
 
