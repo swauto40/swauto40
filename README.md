@@ -1,5 +1,5 @@
 # Misc Linux stuff
-![Screenshot_2021-07-24_23-13-16](https://user-images.githubusercontent.com/78081080/126872817-88fc1872-a86b-445f-9a53-8e8c2d45d599.png)  
+![Screenshot_2021-07-25_00-22-56](https://user-images.githubusercontent.com/78081080/126874800-3c5a08c0-d232-41e5-870e-0bdf2d34fa2a.png)
 * bash  
 * post-install  
 * rsync backup  
